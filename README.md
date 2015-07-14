@@ -13,7 +13,7 @@ auth_token=XXXX # User's foursquare token here
 To setup `virtualenv`
 ``` bash
 virtualenv env
-. /env/bin/active
+. /env/bin/activate
 ```
 
 ## Execute
